@@ -1,0 +1,46 @@
+---
+title: "Sergio Páez Moncaleano"
+subtitle: "Assistant Professor of Statistics – Universidad Nacional de Colombia"
+format:
+  html:
+    theme: cosmo
+    toc: false
+---
+
+# Welcome
+
+I am a statistician and professor at the Universidad Nacional de Colombia.
+
+My work focuses on Biostatistics.
+
+------------------------------------------------------------------------
+
+## Research & Teaching
+
+-   Statistical inference
+-   Probability theory
+-   Statistical computing in R
+-   Generalized Linear Models (and extensions)
+
+------------------------------------------------------------------------
+
+## Teaching materials (in progress)
+
+-   Lecture notes in statistics
+-   Simulation-based learning tools
+-   R / Quarto interactive content
+
+------------------------------------------------------------------------
+
+## Tools
+
+-   R / RStudio
+-   Quarto
+-   Shiny
+-   Python
+
+------------------------------------------------------------------------
+
+## Contact
+
+Email: spaezm\@unal.edu.co
