@@ -1,1 +1,25 @@
-/* css styles */
+body {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: #003366;
+  font-weight: 600;
+}
+
+.navbar {
+  font-size: 17px;
+}
+
+img {
+  border-radius: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0055aa;
+}

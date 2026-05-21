@@ -1,44 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sergio Páez Moncaleano",
-    "section": "",
-    "text": "I am a statistician and professor at the Universidad Nacional de Colombia.\nMy work focuses on Biostatistics.\n\n\n\n\nStatistical inference\nProbability theory\nStatistical computing in R\nGeneralized Linear Models (and extensions)\n\n\n\n\n\n\nLecture notes in statistics\nSimulation-based learning tools\nR / Quarto interactive content\n\n\n\n\n\n\nR / RStudio\nQuarto\nShiny\nPython\n\n\n\n\n\nEmail: spaezm@unal.edu.co"
-  },
-  {
-    "objectID": "index.html#research-teaching",
-    "href": "index.html#research-teaching",
-    "title": "Sergio Páez Moncaleano",
-    "section": "",
-    "text": "Statistical inference\nProbability theory\nStatistical computing in R\nGeneralized Linear Models (and extensions)"
-  },
-  {
-    "objectID": "index.html#teaching-materials-in-progress",
-    "href": "index.html#teaching-materials-in-progress",
-    "title": "Sergio Páez Moncaleano",
-    "section": "",
-    "text": "Lecture notes in statistics\nSimulation-based learning tools\nR / Quarto interactive content"
-  },
-  {
-    "objectID": "index.html#tools",
-    "href": "index.html#tools",
-    "title": "Sergio Páez Moncaleano",
-    "section": "",
-    "text": "R / RStudio\nQuarto\nShiny\nPython"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Sergio Páez Moncaleano",
-    "section": "",
-    "text": "Email: spaezm@unal.edu.co"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sergio Páez Moncaleano",
+    "section": "",
+    "text": "Assistant Professor of Statistics\nUniversidad Nacional de Colombia\nMy work focuses on:\n\nBiostatistics\nStatistical inference\nGeneralized Linear Models\nStatistical computing in R\nProbability theory\n\nI am interested in statistical education, computational methods, and modern data analysis.\n\n\n\nStatistical learning\nBiostatistics"
+  },
+  {
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Sergio Páez Moncaleano",
+    "section": "",
+    "text": "Statistical learning\nBiostatistics"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Sergio Páez Moncaleano",
+    "section": "Contact",
+    "text": "Contact\nspaezm@unal.edu.co"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Sergio Páez Moncaleano",
+    "section": "Links",
+    "text": "Links\n\n spaezm@unal.edu.co\n https://github.com/spaezm\n Google scholar"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Sergio Páez Moncaleano",
+    "section": "",
+    "text": "Assistant Professor of Statistics\nUniversidad Nacional de Colombia\nMy work focuses on:\n\nBiostatistics\nStatistical inference\nGeneralized Linear Models\nStatistical computing in R\nProbability theory\n\nI am interested in statistical education, computational methods, and modern data analysis.\n\n\n\nStatistical learning\nBiostatistics"
+  },
+  {
+    "objectID": "teaching.html#current-interests",
+    "href": "teaching.html#current-interests",
+    "title": "Sergio Páez Moncaleano",
+    "section": "",
+    "text": "Statistical learning\nBiostatistics"
+  },
+  {
+    "objectID": "teaching.html#contact",
+    "href": "teaching.html#contact",
+    "title": "Sergio Páez Moncaleano",
+    "section": "Contact",
+    "text": "Contact\nspaezm@unal.edu.co"
   }
 ]

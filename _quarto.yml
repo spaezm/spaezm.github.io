@@ -1,22 +1,36 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "spaezm"
+  title: "Sergio Páez Moncaleano"
+
   navbar:
+    pinned: true
+
     left:
       - href: index.qmd
         text: Home
+
       - href: about.qmd
         text: About
+
+      - href: research.qmd
+        text: Research
+
+      - href: teaching.qmd
+        text: Teaching
+
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-editor: visual
